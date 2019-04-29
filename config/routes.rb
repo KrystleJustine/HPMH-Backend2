@@ -1,11 +1,5 @@
 Rails.application.routes.draw do
 
-
-  # resources :admins
-  # resources :leads
-  # resources :projects
-  # resources :tasks
-
   get '/tasks', to: 'task#index'
   get '/projects', to: 'project#index'
   get '/projects/:id', to: 'project#show'
