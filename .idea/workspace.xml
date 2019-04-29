@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f1c247f-9da1-4067-bf47-4fbbb47a502f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/serializers/project_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/serializers/project_serializer.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-    </list>
+    <list default="true" id="9f1c247f-9da1-4067-bf47-4fbbb47a502f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -89,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/serializers/lead_serializer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
@@ -130,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/serializers/project_serializer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
@@ -193,7 +190,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="921" />
+    <option name="x" value="528" />
     <option name="width" value="1066" />
     <option name="height" value="1078" />
   </component>
@@ -214,25 +211,6 @@
               <item name="hpmh-backend2" type="b2602c69:ProjectViewProjectNode" />
               <item name="hpmh-backend2" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hpmh-backend2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hpmh-backend2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hpmh-backend2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hpmh-backend2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="concerns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hpmh-backend2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hpmh-backend2" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hpmh-backend2" type="b2602c69:ProjectViewProjectNode" />
@@ -418,16 +396,15 @@
       <option name="presentableId" value="Default" />
       <updated>1556306030092</updated>
       <workItem from="1556306033652" duration="5417000" />
-      <workItem from="1556551185285" duration="7561000" />
+      <workItem from="1556551185285" duration="9422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12978000" />
+    <option name="totallyTimeSpent" value="14839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="921" y="0" width="1066" height="1078" extended-state="0" />
-    <editor active="true" />
+    <frame x="752" y="0" width="1066" height="1078" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3330078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -582,17 +559,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/serializers/lead_serializer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/serializers/project_serializer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/serializers/lead_serializer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
