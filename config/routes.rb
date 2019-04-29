@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get '/projects', to: 'project#index'
   get '/projects/:id', to: 'project#show'
   get '/leads', to: 'lead#index'
+  get '/leads/:id', to: 'lead#show'
   get '/admins', to: 'admin#index'
   get '/current_admin', to:'auth#show'
   post '/login', to: 'auth#create'
